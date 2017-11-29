@@ -1,6 +1,6 @@
-#Fortune file for Stoic Quotes
+# Fortune file for Stoic Quotes
 
-Steps:
-. Copy the two files to /usr/share/fortune
-. Run "fortune stoic-quotes"
-. Guide your actions with the lines bestowed
+#### Steps:
+1. Copy the two files to /usr/share/fortune
+2. Run "fortune stoic-quotes"
+3. Guide your daily actions with the lines bestowed ! 
